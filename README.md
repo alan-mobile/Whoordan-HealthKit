@@ -1,4 +1,5 @@
 # Whoordan
+![App Screenshot](assets/UI.jpg)
 
 Whoordan is a native SwiftUI iOS app for local-first recovery, sleep, strain,
 heart, movement, and wearable diagnostics. It is designed as a production-style
@@ -6,7 +7,7 @@ mobile engineering project: typed domain models, privacy-first data flow,
 source-ranked health metrics, BLE frame decoding, HealthKit integration,
 Supabase account sync, and repeatable validation.
 
-The project is by W4rd2. It is wellness and fitness software, not a medical
+The project is by Alan. It is wellness and fitness software, not a medical
 device. It does not diagnose, treat, prevent, or cure conditions, and it does
 not claim to reproduce another company's proprietary scores, branding, formulas,
 or product experience.
@@ -125,7 +126,7 @@ are required to build or test the public-safe app surface.
 
 ## Product And Release Boundaries
 
-Whoordan is independent software by W4rd2. It is not affiliated with, endorsed
+Whoordan is independent software by alan-mobile. It is not affiliated with, endorsed
 by, sponsored by, or approved by any wearable-device manufacturer. Supported
 hardware is described generically by capability and compatibility class. The
 app is not made for one specific wearable; compatible 4.0 wearable strap
@@ -1514,7 +1515,7 @@ project script:
 scripts/build-install-ios-supabase.sh
 ```
 
-For private signed Ad Hoc OTA distribution through `whoordan.w4rd2.tech`, see
+For private signed Ad Hoc OTA distribution through `whoordan.alan-mobile.tech`, see
 `docs/WHOORDAN_PRIVATE_DISTRIBUTION_SETUP.md`.
 
 ## Validation
@@ -1545,7 +1546,7 @@ clear attribution:
 
 ```text
 Whoordan
-Copyright 2026 W4rd2
+Copyright 2026 alan-mobile
 ```
 
 The Apache License, Version 2.0 does not grant trademark rights. The Whoordan
